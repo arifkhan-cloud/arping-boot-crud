@@ -1,2 +1,0 @@
-# springboot postgresql crud example
-
