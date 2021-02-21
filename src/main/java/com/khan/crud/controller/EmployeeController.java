@@ -24,7 +24,7 @@ import com.khan.crud.repo.EmployeeRepository;
 
 
 @RestController
-@RequestMapping("/api/v1")
+//@RequestMapping("/api/v1")
 public class EmployeeController {
 	@Autowired
 	private EmployeeRepository employeeRepository;
